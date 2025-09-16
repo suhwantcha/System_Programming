@@ -5,7 +5,7 @@ It covers fundamental concepts in system programming, including **data structure
 
 ---
 
-## 📚 Project #1: MyLib  
+## Project #1: MyLib  
 
 ### Description  
 Implemented three core data structures frequently used in the Linux kernel: **List**, **Hash Table**, and **Bitmap**.  
@@ -27,7 +27,7 @@ An interactive program was developed to verify the functionality of these implem
 
 ---
 
-## 🖥 Project #2: MyShell  
+## Project #2: MyShell  
 
 ### Description  
 Developed a simple, customized Linux shell in three incremental phases.  
@@ -52,7 +52,7 @@ The shell supports **basic command execution, I/O redirection, and background jo
 
 ---
 
-## 🌐 Project #3: Concurrent Stock Server  
+## Project #3: Concurrent Stock Server  
 
 ### Description  
 Built a **concurrent stock server** capable of handling multiple client requests simultaneously.  
@@ -75,7 +75,7 @@ Clients can **view, buy, and sell stocks**. Stock data is loaded from a `stock.t
 
 ---
 
-## 📝 Project #4: Mallocator  
+## Project #4: Mallocator  
 
 ### Description  
 Developed a **custom dynamic memory allocator** implementing `malloc`, `free`, and `realloc` for C programs.  
@@ -98,4 +98,3 @@ The objective was to create a **correct, efficient, and fast memory manager**.
 ---
 
 
----
